@@ -1,0 +1,39 @@
+body { font-family: Georgia, "Times New Roman", Times, serif; font-size: 14px; margin-top: 0px;}
+
+a, a:visited {text-decoration: none; color: #015581;}
+a:hover {text-decoration: underline;}
+ul {list-style: none; margin-left:-20px;}
+
+h1 {margin-top: 5px; border: 0px; border-bottom: 1px; border-style: solid; border-color: #DDDDDD; letter-spacing: -1.5px;}
+h1 a:hover {text-decoration: none;}
+.dot {color: #277EAC;}
+
+.refresh {float: right; margin-top: -35px; font-size:7pt;}
+.refresh a, .refresh a:visited {color: #DDDDDD; }
+.refresh a:hover {color: #AAAAAA; text-decoration: none;}
+
+h2 {letter-spacing: -1.5px;}
+.link, .link a, .link a:visited { color: #DDDDDD;} 
+.link a:hover {color: #015581; text-decoration: none;}
+.rev-thumb { color: #DDDDDD; }
+
+.title {}
+.date { color: #990000;}
+.pipe { color: #DDDDDD;} 
+.time{ color: #277EAC;} 
+
+.byline{font-size: 8pt; color: #AAAAAA; margin-top: -20px; padding-bottom: 20px;}
+.byline a, .byline  a:visited { color: #AAAAAA; }
+.byline a:hover {text-decoration: none; color: #015581;}
+
+.revision-label {color: #AAAAAA; float: right; margin-top: -20px; width: 100px; margin-right: 350px;}
+.revisions {float: right; margin-top: -20px; width: 350px; clear: both;}
+.rev-date {color: #DDDDDD; float: left; width: 175px; }
+.rev-link {color: #DDDDDD; float: left; width: 115px;}
+.number {font-size: 12 pt; }
+.clear {clear: both;}
+
+.footer {margin-top: 50px; font-size: 8pt; text-align: right; color: #AAAAAA; border: 0px; border-top: 1px; border-style: solid; border-color: #DDDDDD; padding-top: 10px;}
+.footer a, .footer a:visited {color: #AAAAAA;}
+.footer a:hover {text-decoration: none; color: #015581;}
+.stats {margin-top: -4px; font-size: 7pt; font-style: italic;}
